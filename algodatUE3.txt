@@ -1,0 +1,23 @@
+3 Programmier Beispiel
+
+
+
+File einlesen,
+
+Adjazenz Liste,
+
+STL linked list, hashtable
+
+Object Oriented, Node Class, Edge Class
+
+Hashtable von string(stations name) zu node position(id), fertige hashmap erlaubt
+
+datenstruktur fuer string linien, int fahrtdauer, string stationsname,
+
+Tiefensuche: Node mit visited flag, default false, wenn besucht true, vermeidet rekursive schleife
+
+Dijkstra beispiel in folien gut aber nict fertig, alle nicht besuchten nachbar knoten in 
+minuimum heap um billigsten weg zu finden (STL Priority queue),
+
+was fehlt ist wie man hinkommt, weg beschreibung, knoten aus dem heap raus, info was war der vorgaenger,
+in heap speichern wo man wegegangen ist, im HEAP struct aktueller knoten, vorgaenger, gewicht

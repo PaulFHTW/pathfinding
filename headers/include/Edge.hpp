@@ -1,0 +1,6 @@
+class Edge{
+    private:
+        
+    public:
+
+};
